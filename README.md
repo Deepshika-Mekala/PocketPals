@@ -1,2 +1,2 @@
 # PocketPals
-just a petting name
+just a petting game
